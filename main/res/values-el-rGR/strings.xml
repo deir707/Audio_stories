@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unipi_Audio_Stories</string>
+    <string name="textView">Καλώς ήλθατε στο Unipi Audio Stories</string>
+    <string name="textView2">Επιλέξτε τη γλώσσα που επιθυμείτε</string>
+    <string name="textView3">Διαλέξτε μία ιστορία</string>
+    <string name="button">Εισέλθετε</string>
+    <string name="button3">Αγγλικά</string>
+    <string name="button4">Ελληνικά</string>
+    <string name="button5">Γαλλικά</string>
+    <string name="button2">Ιστορίες</string>
+    <string name="button6">Στατιστικά</string>
+    <string name="button7">Παίξε με</string>
+    <string name="textView16">Στατιστικά Ιστοριών</string>
+    <string name="textView17">Ιστορίες που διαβάστηκαν περισσότερο</string>
+    <string name="textView18">Ιστορίες που ακούστηκαν περισσότερο</string>
+</resources>

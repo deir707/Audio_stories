@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Unipi_Audio_Stories</string>
+    <string name="button">Enter</string>
+    <string name="button2">Stories</string>
+    <string name="button3">English</string>
+    <string name="button4">Greek</string>
+    <string name="button5">French</string>
+    <string name="button6">Statistics</string>
+    <string name="button7">Play me</string>
+    <string name="textView">Welcome to Unipi Audio Stories</string>
+    <string name="textView2">Select your language</string>
+    <string name="textView3">Select a story</string>
+    <string name="textView16">Stories Statistics</string>
+    <string name="textView17">Most read stories</string>
+    <string name="textView18">Most listened stories</string>
+</resources>
